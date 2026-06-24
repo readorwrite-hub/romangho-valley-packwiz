@@ -1,0 +1,8 @@
+name = "koreanpatch-forge-1.9.6+mc1.20.1"
+filename = "koreanpatch-forge-1.9.6+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "http://168.107.19.121/koreanpatch-forge-1.9.6%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "19a3390c1852dea94b32422e280ee70aa1686e62a1a00a07e18e5747b02c1bd7"

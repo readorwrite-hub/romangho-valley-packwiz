@@ -21329,6 +21329,11 @@ hash = "143102be700d30cf68d0988bc9f1b523545e37b7074ee786faac56a388e6f0e9"
 metafile = true
 
 [[files]]
+file = "mods/koreanpatch-forge-1-9-6-mc1-20-1.pw.toml"
+hash = "057a873d844522189107b413f3b5ccadedae999dccdd3c98d04f49b16db5b75f"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
