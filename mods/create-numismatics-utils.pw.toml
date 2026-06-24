@@ -1,0 +1,13 @@
+name = "Create: Numismatics Utils"
+filename = "numismatics_utils-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7b730f7c9717e261445866e4889849133a970e13"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8026503
+project-id = 1339392

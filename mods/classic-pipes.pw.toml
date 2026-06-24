@@ -1,0 +1,13 @@
+name = "Classic Pipes"
+filename = "classicpipes-forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98fa19d6eb69dcbda3d85c55e802a68244bbda2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7853070
+project-id = 1351745
